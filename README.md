@@ -1,6 +1,6 @@
 # EminescuAI - LLaMA Fine-tuning Project
 
-A project for fine-tuning LLaMA models to generate text in the style of the influent Romanian poet Mihai Eminescu. One complete trained model on Llama can be found here: https://huggingface.co/adrianpintilie/EminescuAI
+A project for fine-tuning LLaMA models to generate text in the style of the influent Romanian poet Mihai Eminescu. One complete trained model on Llama can be found here: https://huggingface.co/adrianpintilie/EminescuAI and https://huggingface.co/adrianpintilie/EminescuAI-70B
 
 ## Prerequisites
 
@@ -8,6 +8,7 @@ A project for fine-tuning LLaMA models to generate text in the style of the infl
 - CUDA-compatible GPU
 - Hugging Face account with access to LLaMA models
 - Weights & Biases account
+- Runs on Google Collab
 
 ## Required Dependencies
 
